@@ -1,3 +1,14 @@
+//===================================================================
+// File: main.dart
+//
+// Desc: Main entry point for application.
+//
+// Copyright © 2019 Edwin Cloud. All rights reserved.
+//
+// * Attribution to Tensor and his channel on YouTube at      *
+// * https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg *
+//===================================================================
+
 import 'package:flutter/material.dart';
 import 'dart:math' show pi;
 
